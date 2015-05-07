@@ -7,6 +7,7 @@
 - 知乎：<http://www.zhihu.com/people/wang-xuan-yi-8>
 - 微博：<http://weibo.com/wangxuanyihaha>
 - GitHub：<https://github.com/MrNerverDie>
+- 博客：<http://www.cnblogs.com/neverdie/>
 
 ###概况
 
